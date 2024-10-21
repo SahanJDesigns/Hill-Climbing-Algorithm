@@ -113,4 +113,4 @@ def main(input_file, output_file):
 
 # Example usage
 if __name__ == "__main__":
-    main("new.txt", "123456A.txt")
+    main("input.txt", "123456A.txt")
